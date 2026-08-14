@@ -3,8 +3,6 @@
     A 3D ECS Game Engine
 </div>
 
-<h1></h1>
-
 KACUBED is a 3D game library for the web, designed to feel like a game while creating exciting and immersive experiences.
 
 ## Examples
