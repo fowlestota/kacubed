@@ -1,7 +1,11 @@
-<div align="center">
-    <h1 style="border-bottom: none; margin-bottom: 0;">KACUBED</h1>
-    A 3D ECS Game Engine
-</div>
+<div id="user-content-toc">
+        <ul align="center" style="list-style: none;">
+            <summary>
+                <h1>KACUBED</h1>
+            </summary>
+            A 3D ECS Game Engine
+        </ul>
+    </div>
 
 ## About the Project
 
